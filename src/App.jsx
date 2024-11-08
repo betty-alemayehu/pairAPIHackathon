@@ -24,7 +24,7 @@ function App() {
   }
 
   return (
-    <BrowserRouter basename="/pairAPIHackathon">
+    <BrowserRouter basename={import.meta.env.BASE_URL || "/"}>
       <Routes>
         <Route path="/" element={<Poses poses={poses} />} />
         <Route path="/pose/:id" element={<PoseDetails poses={poses} />} />
