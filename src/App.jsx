@@ -24,7 +24,7 @@ function App() {
   }
 
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/pairAPIHackathon">
       <Routes>
         <Route path="/" element={<Poses poses={poses} />} />
         <Route path="/pose/:id" element={<PoseDetails poses={poses} />} />
