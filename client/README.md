@@ -1,12 +1,10 @@
-# Practice - Pair-Programming API Hackathon
+# Pair-Programming API Hackathon
 
-## Task
+## 🎯 The Challenge
 
-Pair-programming API hackathon project to create an interactive and customizable yoga tracking app.
+To create an interactive, customizable React app that: provides comprehensive yoga pose information via API.
 
-## App Name
-
-**Practice**
+## App Name: Practice
 
 ## Mission
 
@@ -29,12 +27,6 @@ Practice is a web-based yoga app where users can:
 2. **Idea Selection**: Structured, collaborative ideation and prioritization process.
 3. **Prototyping**: Building a functional MVP using a mix of research, design, and code.
 4. **Presentation**: Sharing the final product and insights learned during the hackathon.
-
----
-
-## 🎯 The Challenge
-
-To create an interactive, customizable React app that: provides comprehensive yoga pose information via API.
 
 ---
 
