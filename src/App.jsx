@@ -10,7 +10,7 @@ function App() {
 
   const fetchYogaPoses = async () => {
     const { data } = await axios.get(
-      "https://yoga-api-nzy4.onrender.com/v1/poses"
+      "http://yoga-api-nzy4.onrender.com/v1/poses"
     );
     setPoses(data);
   };
